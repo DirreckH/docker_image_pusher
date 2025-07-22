@@ -1,4 +1,5 @@
 nginx
+redis
 golang:1.21-alpine
 alpine:latest
 #支持私库
